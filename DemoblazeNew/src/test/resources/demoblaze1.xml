@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Demoblaze">
+  <test name="Demoblaze_testing">
+    <classes>
+      <class name="base1.Base1"/>
+      <class name="testSuiteBDD1.TestRunner1"/>
+    </classes>
+  </test>
+</suite>

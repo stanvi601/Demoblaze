@@ -131,7 +131,7 @@ public class Home1 extends Base1
 //	code to enter the valid details in signUp form
 	public void valid_Reg() throws AWTException
 	{
-		driver.findElement(vsignuser).sendKeys("Execution43");
+		driver.findElement(vsignuser).sendKeys("Execution51");
 		driver.findElement(vsignpass).sendKeys("user@123");
 		driver.findElement(signbtn).click();
 		
